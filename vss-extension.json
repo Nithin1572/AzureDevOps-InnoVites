@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1,
     "id": "AzureDevOps-InnoVites",
-    "publisher": "Nithin",
+    "publisher": "ANithinKumarReddy",
     "version": "1.0.0",
     "name": "AzureDevOps-InnoVites",
     "description": "A simple Azure DevOps extension for InnoVites",
