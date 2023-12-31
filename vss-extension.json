@@ -22,7 +22,7 @@
             "properties": {
                 "name": "BP Extension",
                 "uri": "index.html",
-                "baseUri": "https://localhost:44300"
+                "baseUri": "http://localhost:8080"
             }
         }
     ],
