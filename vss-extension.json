@@ -21,7 +21,8 @@
             ],
             "properties": {
                 "name": "BP Extension",
-                "uri": "index.html"
+                "uri": "index.html",
+                "baseUri": "https://localhost:44300"
             }
         }
     ],
